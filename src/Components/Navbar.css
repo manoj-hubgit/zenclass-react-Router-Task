@@ -10,3 +10,13 @@
 .nav-link:hover{
     text-shadow: rgb(45, 45, 44) 1px 0 10px;
 }
+.notfound{
+ height: 100%;
+ width:100%;
+}
+
+@media screen and (max-width: 768px){
+  .notfound{
+    padding-top: 4.5rem;
+  }
+}
