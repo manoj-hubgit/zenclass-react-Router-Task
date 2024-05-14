@@ -12,7 +12,7 @@ const App = () => {
     let data=[
     {
       id:"1",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+      image:"https://static.vecteezy.com/system/resources/previews/004/485/532/original/man-working-at-laptop-work-at-home-concept-design-freelance-man-working-on-laptop-smiling-man-is-sitting-with-laptop-around-the-internet-email-message-icons-freelancer-programmer-with-a-laptop-vector.jpg",
       title:"Best Full-Stack Development Project Ideas in 2024",
       author:"Isha Sharma",
       date:"25 Mar, 2024",
@@ -20,7 +20,7 @@ const App = () => {
     },
     {
       id:"2",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1.png",
+      image:"https://img.freepik.com/premium-vector/internet-data-management-vector-flat-illustration_450176-108.jpg",
       title:"10 Best Database Management Systems For Software Developers",
       author:"Isha Sharma",
       date:"24 Mar, 2024",
@@ -28,7 +28,7 @@ const App = () => {
     },
       {
       id:"3",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+      image:"https://img.freepik.com/premium-vector/business-woman-working-laptop-computer-vector-illustration_77116-1945.jpg",
       title:"Top 10 Full-Stack Developer Frameworks in 2024",
       author:"Isha Sharma",
       date:"16 Apr, 2024",
@@ -36,7 +36,7 @@ const App = () => {
     },
     {
       id:"4",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/03/1.jpg",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyhEhCHaOKabnb6ikkaxW9_7KKS9td5-L2Q&s",
       title:"Best Web Development Roadmap for Beginners 2024",
       author:"Isha Sharma",
       date:"16 Apr, 2024",
@@ -52,7 +52,7 @@ const App = () => {
     },
     {
       id:"6",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2021/05/react-945x495.jpg",
+      image:"https://res.cloudinary.com/practicaldev/image/fetch/s--G5AWXQ2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/v4y43jjfj7u5r8to8qdu.png",
       title:"6 Essential Prerequisites For Learning ReactJS",
       author:"Ramkumar",
       date:"25 Mar, 2024",
@@ -124,7 +124,7 @@ const App = () => {
     },
     {
       id:"15",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/10/Best-Websites-to-Learn-DIgital-Marketing-in-2023.jpg",
+      image:"https://t4.ftcdn.net/jpg/05/06/35/75/360_F_506357599_bjrjWJ36i3UNb7zlqUnEB13jOdXtZ4kl.jpg",
       title:"Best Websites to Learn Digital Marketing in 2024",
       author:"Tushar Vinocha",
       date:"14 Dec, 2023",
@@ -132,7 +132,7 @@ const App = () => {
     },
     {
       id:"16",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/10/31958-2048x878.jpg",
+      image:"https://img.freepik.com/free-vector/people-analyzing-growth-charts_23-2148866843.jpg",
       title:"6 Reasons Business Analytics Makes Digital Marketing Powerful",
       author:"Lahari Chandana",
       date:"12 Apr, 2024",
@@ -156,7 +156,7 @@ const App = () => {
     },
     {
       id:"19",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png",
+      image:"https://static.vecteezy.com/system/resources/thumbnails/026/728/204/small/concept-of-financial-data-management-analytics-and-data-science-with-tiny-people-risk-management-abstract-illustration-machine-learning-metaphorical-dashboard-vector.jpg",
       title:"Can A Commerce Student Do Data Science?",
       author:"Saakshi Priyadarshini",
       date:"16 Apr, 2024",
@@ -164,7 +164,7 @@ const App = () => {
     },
     {
       id:"20",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/08/How-Long-Would-It-Take-to-Learn-Data-Science-2048x1072.png",
+      image:"https://miro.medium.com/v2/resize:fit:925/1*E1haIGB9K4K89PsFZgm-pw.jpeg",
       title:"How Long Would It Take to Learn Data Science?",
       author:"Meghana D",
       date:"16 Apr, 2024",
@@ -172,7 +172,7 @@ const App = () => {
     },
     {
       id:"21",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-2048x1365.jpg",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4gJIKGWo19TK_Nu0KGNzcxPHgIRWXrTPhw&s",
       title:" How to become a Data Scientist after Mechanical Engineering?",
       author:"Lahari Chandana",
       date:"16 Apr, 2024",
@@ -180,7 +180,7 @@ const App = () => {
     },
     {
       id:"22",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Everything-about-Data-Scientist-Salary-in-India-2023-2048x1072.png",
+      image:"https://img.freepik.com/free-vector/salary-gap-male-female-business-characters_74855-19874.jpg",
       title:"Everything about Data Scientist Salary in India | 2024",
 
       author:"Srinithi Sankar",
@@ -189,7 +189,7 @@ const App = () => {
     },
     {
       id:"23",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
+      image:"https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/image_KEBKgaE-thumbnail_webp-600x300.webp",
       title:"Roles and Responsibilities of a Data Scientist",
       author:"Jaishree Tomar",
       date:"16 Apr, 2024",
